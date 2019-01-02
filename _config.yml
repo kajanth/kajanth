@@ -1,5 +1,5 @@
 title: Kubernetes challenges
-description: my thoughts on running kubernetes in production for the last two years
-show_downloads: true
+description: Kubernetes in Production
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-dinky
