@@ -1,7 +1,9 @@
 ---
-title: Post Archive
-layout: posts
-permalink: /posts/
-show_excerpts: true
-entries_layout: list
+layout: default
 ---
+
+# Name : Kajanth Mayooranathan
+
+_yay_
+
+[back](./)

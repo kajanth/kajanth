@@ -1,7 +1,9 @@
 ---
-title: Category Archive
-layout: categories
-permalink: /categories/
-show_excerpts: true
-entries_layout: list
+layout: default
 ---
+
+# Name : Kajanth Mayooranathan
+
+_yay_
+
+[back](./)

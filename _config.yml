@@ -4,39 +4,3 @@ locale: en-GB
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-dinky
-url: "https://www.kajanth.me"
-date_format: "%B %-d, %Y"
-read_time: true
-words_per_minute: 200
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-
-# Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
-paginate_path: /page:num/
-
-# Search
-search_full_content: false
-
-# Taxonomy pages
-category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
-
-# Site Author
-author:
-  name: kajanth Mayooranathan
-  picture: /images/michael-rose-photo.jpg
-  email:
-  twitter: mmistakes
-  links:
-    - title: Twitter
-      url: https://twitter.com/mmistakes
-      icon: fab fa-twitter-square
-    - title: Instagram
-      url: https://instagram.com/mmistakes
-      icon: fab fa-instagram
-    - title: GitHub
-      url: https://github.com/mmistakes
-      icon: fab fa-github-square
