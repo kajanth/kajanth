@@ -19,7 +19,7 @@
 
 - 💼 I'm currently working on: **building out a Vehicle platform on AWS**
 - 🌱 I'm currently learning: **Toyota Production Systems**
-- 💬 Ask me about: **💡 SRE, Platform Engineering, Terraform, Operations, Security, Scalability, Finops**
+- 💬 Ask me about: **💡 AI, SRE, Platform Engineering, Terraform, Operations, Security, Scalability, Finops**
 - ⚡ Fun fact: **🎢 I am a father of twins**
 
  **<h3 align="left">Skills</h3>**
