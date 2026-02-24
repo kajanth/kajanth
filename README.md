@@ -22,15 +22,15 @@
 - 💬 Ask me about: **💡 AI, SRE, Platform Engineering, Terraform, Operations, Security, Scalability, Finops**
 - ⚡ Fun fact: **🎢 I am a father of twins**
 
+![Stats](./profile/stats.svg)
+
  **<h3 align="left">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=aws" height="32" alt="AWS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=azure" height="32" alt="Azure" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=gcp" height="32" alt="GCP" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=kubernetes" height="32" alt="Kubernetes" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=docker" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=terraform" height="32" alt="Terraform" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=gitlab" height="32" alt="GitLab CI" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=bash" height="32" alt="Bash" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nginx" height="32" alt="Nginx" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=redis" height="32" alt="Redis" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VSCode" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=elasticsearch" height="32" alt="Elasticsearch" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=dynamodb" height="32" alt="DynamoDB" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=ansible" height="32" alt="Ansible" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=githubactions" height="32" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=notion" height="32" alt="Notion" style="margin-right: 4px"></div>
 
  **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
-![Stats](./profile/stats.svg)
-</p>
+
 
  **<h3 align="left">Support Me</h3>**
 
